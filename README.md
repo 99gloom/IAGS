@@ -29,6 +29,9 @@ Example usages in scenarios
 ### docs
 User guide
 
+### Prepare input file
+Please refer [processDrimm](https://github.com/xjtu-omics/processDrimm) to generate the input file.
+
 ### dataSturcture
 Basic data structure for IAGS.
 

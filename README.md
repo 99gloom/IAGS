@@ -82,7 +82,9 @@ Including Non-CRBs and CRBs simulations.
 ## Contact
 If you have any questions, please feel free to contact: gaoxian15002970749@163.com, xfyang@xjtu.edu.cn, kaiye@xjtu.edu.cn
 
-
+## Reference
+Please cite the following paper when you use IAGS in your work
+Shenghan Gao, Xiaofei Yang, Jianyong Sun, Xixi Zhao, Bo Wang, Kai Ye, IAGS: Inferring Ancestor Genome Structure under a Wide Range of Evolutionary Scenarios, Molecular Biology and Evolution, Volume 39, Issue 3, March 2022, msac041, https://doi.org/10.1093/molbev/msac041
 
 
 
